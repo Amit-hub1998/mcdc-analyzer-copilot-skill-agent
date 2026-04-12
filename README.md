@@ -3,7 +3,7 @@
 > **Static code analysis for Modified Condition/Decision Coverage (MCDC) in PySpark/Python**  
 > Works directly in VS Code with GitHub Copilot — no external tools required.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 [![Copilot Skill](https://img.shields.io/badge/GitHub-Copilot%20Skill-8957e5)](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 

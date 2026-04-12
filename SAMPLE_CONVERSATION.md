@@ -202,7 +202,8 @@ Generate pytest test cases based on the MCDC analysis above
 
 ### Screenshot 1: Analysis Request
 ```
-[Insert screenshot of Copilot Chat with the analysis prompt]
+<img width="649" height="585" alt="image" src="https://github.com/user-attachments/assets/70a74407-fc81-477b-bfd1-f76a60669b35" />
+
 ```
 
 ### Screenshot 2: Analysis Output
