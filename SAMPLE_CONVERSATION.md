@@ -207,12 +207,12 @@ Generate pytest test cases based on the MCDC analysis above
 
 ### Screenshot 2: Analysis Output
 ```
-[Insert screenshot showing the MCDC analysis results]
+![Analysis Output](screenshots/screenshot-output.png)
 ```
 
 ### Screenshot 3: Test Generation
 ```
-[Insert screenshot showing the generated test file]
+![Generated Tests](screenshots/screenshot-tests.png)
 ```
 
 ---
